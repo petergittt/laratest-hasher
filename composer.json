@@ -1,0 +1,12 @@
+{
+    "name": "laratest/hasher",
+    "description": "md5 hash",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hasher\\": "src/"
+        }
+    }
+}
